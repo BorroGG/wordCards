@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WordsCards</string>
+    <string name="ShuffleCards">Shuffle cards</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="toStart">to start</string>
+    <string name="toEnd">to end</string>
+    <string name="addNewWord">add new word</string>
+    <string name="add">add</string>
+    <string name="deleteWord">delete word</string>
+    <string name="addDescription">add auto word description</string>
+    <string name="fromSite">Data will be taken from macmillandictionary.com</string>
+    <string name="newWord">New word</string>
+    <string name="description">Description</string>
+    <string name="addCollection">Add new collection</string>
+    <string name="allWords">All words</string>
+    <string name="enterNameOfCollection">Enter the name of the collection</string>
+    <string name="deleteCollection">Delete collection?</string>
+</resources>
